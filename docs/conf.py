@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'fu3'
+project = 'fu37'
 copyright = '2020, fu3'
-author = 'fu3'
+author = 'fu37'
 
 # The full version, including alpha/beta/rc tags
 release = '0.2'
