@@ -1,0 +1,15 @@
+# -r requirements/pip.txt
+# just referencing for a natural `pip install -r requirements.txt`
+
+
+ipykernel
+numpy
+matplotlib
+pandas
+sphinxcontrib-bibtex
+sphinxcontrib-svg2pdfconverter
+ipywidgets
+sphinx-copybutton
+sphinx-gallery
+jupytext
+sphinx-last-updated-by-git
